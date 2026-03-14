@@ -1,0 +1,15 @@
+{
+  "name": "그리스도인 생활과 봉사",
+  "short_name": "집회순서",
+  "description": "경주 동부 회중 집회 순서표",
+  "start_url": "./index-jiboe.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a4a7a",
+  "theme_color": "#1a4a7a",
+  "lang": "ko",
+  "icons": [
+    { "src": "./icon-jiboe-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "./icon-jiboe-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
